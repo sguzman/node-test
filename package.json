@@ -1,0 +1,19 @@
+{
+  "name": "node-test",
+  "version": "1.0.0",
+  "description": "A test of node",
+  "main": "index.js",
+  "author": "Salvador Guzman",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "voca": "^1.4.0"
+  },
+  "devDependencies": {
+    "assemblyscript": "^0.20.2",
+    "eslint": "^8.12.0"
+  }
+}
