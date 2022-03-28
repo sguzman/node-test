@@ -9,6 +9,7 @@
   "dependencies": {
     "cheerio": "^1.0.0-rc.10",
     "lodash": "^4.17.21",
+    "mathjs": "^10.4.1",
     "moment": "^2.29.1",
     "voca": "^1.4.0"
   },
